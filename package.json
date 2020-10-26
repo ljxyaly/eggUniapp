@@ -1,0 +1,20 @@
+{
+  "name": "uni_app_huilderx_template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljxyaly/uni_app_huilderx_template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ljxyaly/uni_app_huilderx_template/issues"
+  },
+  "homepage": "https://github.com/ljxyaly/uni_app_huilderx_template#readme",
+  "dependencies": {}
+}
